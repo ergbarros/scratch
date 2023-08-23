@@ -15,6 +15,5 @@ Introdução a Lógica de Programação com Scratch
 - [Conversor de Temperatura](https://scratch.mit.edu/projects/882616220/editor/)
 - [Cálculo do Valor da Hora do Técnico](https://scratch.mit.edu/projects/885030225/editor/)
 
-Introdução a Lógica de Programação com Scratch
 ## Autor
 # Edinaldo Barros
