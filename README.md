@@ -14,6 +14,8 @@ Introdução a Lógica de Programação com Scratch
 - [Custo x Venda](https://scratch.mit.edu/projects/884629885/editor/)
 - [Conversor de Temperatura](https://scratch.mit.edu/projects/882616220/editor/)
 - [Cálculo do Valor da Hora do Técnico](https://scratch.mit.edu/projects/885030225/editor/)
+- [Atividade a Hora do Código](https://studio.code.org/print_certificates/eyJuYW1lIjoiRWRpbmFsZG8gUGVyZWlyYSBEZSBCYXJyb3MiLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJSb2Jsb3gifQ==)
+  
 
 ## Autor
 # Edinaldo Barros
