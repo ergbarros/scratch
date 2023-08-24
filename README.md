@@ -21,4 +21,4 @@ Introdução a Lógica de Programação com Scratch
 # Edinaldo Barros
 
 ## Hora do Código:
-[]()
+![Hora do Código](assets/icons/eyJuYW1lIjoiRWRpbmFsZG8gUGVyZWlyYSBEZSBCYXJyb3MiLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJSb2Jsb3gifQ==.jpg)
