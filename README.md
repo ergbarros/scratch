@@ -15,6 +15,7 @@ Introdução a Lógica de Programação com Scratch
 - [Conversor de Temperatura](https://scratch.mit.edu/projects/882616220/editor/)
 - [Cálculo do Valor da Hora do Técnico](https://scratch.mit.edu/projects/885030225/editor/)
 - [Atividade a Hora do Código](https://studio.code.org/print_certificates/eyJuYW1lIjoiRWRpbmFsZG8gUGVyZWlyYSBEZSBCYXJyb3MiLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJSb2Jsb3gifQ==)
+- [Atividade a Hora do Código](https://studio.code.org/print_certificates/eyJuYW1lIjoiRWRpbmFsZG8gUGVyZWlyZSBEZSBCYXJyb3MiLCJjb3Vyc2UiOiJtYyIsImRvbm9yIjoiSW5mb3N5cyBGb3VuZGF0aW9uIFVTQSJ9)
   
 
 ## Autor
