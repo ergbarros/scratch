@@ -22,5 +22,5 @@ Introdução a Lógica de Programação com Scratch
 
 ## Hora do Código:
 ![Hora do Código](assets/icons/eyJuYW1lIjoiRWRpbmFsZG8gUGVyZWlyYSBEZSBCYXJyb3MiLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJSb2Jsb3gifQ==.jpg)
-![Hora do Código1](eyJuYW1lIjoiRWRpbmFsZG8gUGVyZWlyZSBEZSBCYXJyb3MiLCJjb3Vyc2UiOiJtYyIsImRvbm9yIjoiSW5mb3N5cyBGb3VuZGF0aW9uIFVTQSJ9.jpg)
+![Hora do Código](eyJuYW1lIjoiRWRpbmFsZG8gUGVyZWlyZSBEZSBCYXJyb3MiLCJjb3Vyc2UiOiJtYyIsImRvbm9yIjoiSW5mb3N5cyBGb3VuZGF0aW9uIFVTQSJ9.jpg)
 
