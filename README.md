@@ -17,6 +17,7 @@ Introdução a Lógica de Programação com Scratch
 - [Atividade a Hora do Código](https://studio.code.org/print_certificates/eyJuYW1lIjoiRWRpbmFsZG8gUGVyZWlyYSBEZSBCYXJyb3MiLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJSb2Jsb3gifQ==)
 - [Atividade a Hora do Código Code.org](https://studio.code.org/print_certificates/eyJuYW1lIjoiRWRpbmFsZG8gUGVyZWlyZSBEZSBCYXJyb3MiLCJjb3Vyc2UiOiJtYyIsImRvbm9yIjoiSW5mb3N5cyBGb3VuZGF0aW9uIFVTQSJ9)
 - [Calcula de Serviço](https://scratch.mit.edu/projects/886837982/)
+- [Álcool x Gasolina](https://scratch.mit.edu/projects/887262500/editor/)
   
 
 ## Autor
